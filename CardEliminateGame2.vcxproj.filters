@@ -1,0 +1,259 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="win32">
+      <UniqueIdentifier>{84a8ebd7-7cf0-47f6-b75e-d441df67da40}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="resource">
+      <UniqueIdentifier>{715254bc-d70b-4ec5-bf29-467dd3ace079}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{bb6c862e-70e9-49d9-81b7-3829a6f50471}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Views">
+      <UniqueIdentifier>{bf8d9661-b42c-47fb-a454-ab82a0d0332d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Controllers">
+      <UniqueIdentifier>{c9048d63-c006-4e48-a23d-60a0356689a5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Managers">
+      <UniqueIdentifier>{0cb22dba-dafc-4e46-a03e-8da3f2b8feea}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Models">
+      <UniqueIdentifier>{4e393f0e-7d76-4c22-a17e-13e067b6d598}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Services">
+      <UniqueIdentifier>{a8e62fe4-e004-4a85-8694-3d0ad975db18}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Utils">
+      <UniqueIdentifier>{10987098-489d-41df-b30c-2877d1575d74}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="resource\res">
+      <UniqueIdentifier>{42021b21-1cb7-4836-b66c-b3d00ebd8e74}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="resource\res\suit">
+      <UniqueIdentifier>{89a60b19-fbb5-49ba-bbff-d71d6a7403ad}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="resource\res\number">
+      <UniqueIdentifier>{2ccc397a-4201-434c-b80e-419eaf08a564}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>win32</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppDelegate.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\HelloWorldScene.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Controllers\CardClickController.cpp">
+      <Filter>Controllers</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Controllers\EventDispatcher.cpp">
+      <Filter>Controllers</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Controllers\GameController.cpp">
+      <Filter>Controllers</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Controllers\UndoController.cpp">
+      <Filter>Controllers</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Managers\CardFlipManager.cpp">
+      <Filter>Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Managers\GameStateManager.cpp">
+      <Filter>Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Managers\HistoryManager.cpp">
+      <Filter>Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Managers\MatchManager.cpp">
+      <Filter>Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Managers\PileManager.cpp">
+      <Filter>Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Models\CardModel.cpp">
+      <Filter>Models</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Models\GameModel.cpp">
+      <Filter>Models</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Models\HistoryModel.cpp">
+      <Filter>Models</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Models\PileModel.cpp">
+      <Filter>Models</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Services\CardService.cpp">
+      <Filter>Services</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Services\HistoryService.cpp">
+      <Filter>Services</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Utils\MathUtils.cpp">
+      <Filter>Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Views\CardView.cpp">
+      <Filter>Views</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Views\PileView.cpp">
+      <Filter>Views</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Views\UIFeedbackView.cpp">
+      <Filter>Views</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Views\UndoBtnView.cpp">
+      <Filter>Views</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Views\GameScene.cpp">
+      <Filter>Views</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="main.h">
+      <Filter>win32</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppDelegate.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\HelloWorldScene.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Controllers\CardClickController.h">
+      <Filter>Controllers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Controllers\EventDispatcher.h">
+      <Filter>Controllers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Controllers\GameController.h">
+      <Filter>Controllers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Controllers\UndoController.h">
+      <Filter>Controllers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Managers\CardFlipManager.h">
+      <Filter>Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Managers\GameStateManager.h">
+      <Filter>Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Managers\HistoryManager.h">
+      <Filter>Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Managers\MatchManager.h">
+      <Filter>Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Managers\PileManager.h">
+      <Filter>Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Models\CardModel.h">
+      <Filter>Models</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Models\GameModel.h">
+      <Filter>Models</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Models\HistoryModel.h">
+      <Filter>Models</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Models\PileModel.h">
+      <Filter>Models</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Services\CardService.h">
+      <Filter>Services</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Services\HistoryService.h">
+      <Filter>Services</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Utils\MathUtils.h">
+      <Filter>Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GlobalEnum.h">
+      <Filter>win32</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h" />
+    <ClInclude Include="..\Classes\Views\CardView.h">
+      <Filter>Views</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Views\PileView.h">
+      <Filter>Views</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Views\UIFeedbackView.h">
+      <Filter>Views</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Views\UndoBtnView.h">
+      <Filter>Views</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Views\GameScene.h">
+      <Filter>Views</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="game.rc">
+      <Filter>resource</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\Resources\undo.png" />
+    <Image Include="..\Resources\res\card_general.png" />
+    <Image Include="..\Resources\res\number\big_black_2.png" />
+    <Image Include="..\Resources\res\number\big_black_3.png" />
+    <Image Include="..\Resources\res\number\big_black_4.png" />
+    <Image Include="..\Resources\res\number\big_black_5.png" />
+    <Image Include="..\Resources\res\number\big_black_6.png" />
+    <Image Include="..\Resources\res\number\big_black_7.png" />
+    <Image Include="..\Resources\res\number\big_black_8.png" />
+    <Image Include="..\Resources\res\number\big_black_9.png" />
+    <Image Include="..\Resources\res\number\big_black_10.png" />
+    <Image Include="..\Resources\res\number\big_black_A.png" />
+    <Image Include="..\Resources\res\number\big_black_J.png" />
+    <Image Include="..\Resources\res\number\big_black_K.png" />
+    <Image Include="..\Resources\res\number\big_black_Q.png" />
+    <Image Include="..\Resources\res\number\big_red_2.png" />
+    <Image Include="..\Resources\res\number\big_red_3.png" />
+    <Image Include="..\Resources\res\number\big_red_4.png" />
+    <Image Include="..\Resources\res\number\big_red_5.png" />
+    <Image Include="..\Resources\res\number\big_red_6.png" />
+    <Image Include="..\Resources\res\number\big_red_7.png" />
+    <Image Include="..\Resources\res\number\big_red_8.png" />
+    <Image Include="..\Resources\res\number\big_red_9.png" />
+    <Image Include="..\Resources\res\number\big_red_10.png" />
+    <Image Include="..\Resources\res\number\big_red_A.png" />
+    <Image Include="..\Resources\res\number\big_red_J.png" />
+    <Image Include="..\Resources\res\number\big_red_K.png" />
+    <Image Include="..\Resources\res\number\big_red_Q.png" />
+    <Image Include="..\Resources\res\number\small_black_2.png" />
+    <Image Include="..\Resources\res\number\small_black_3.png" />
+    <Image Include="..\Resources\res\number\small_black_4.png" />
+    <Image Include="..\Resources\res\number\small_black_5.png" />
+    <Image Include="..\Resources\res\number\small_black_6.png" />
+    <Image Include="..\Resources\res\number\small_black_7.png" />
+    <Image Include="..\Resources\res\number\small_black_8.png" />
+    <Image Include="..\Resources\res\number\small_black_9.png" />
+    <Image Include="..\Resources\res\number\small_black_10.png" />
+    <Image Include="..\Resources\res\number\small_black_A.png" />
+    <Image Include="..\Resources\res\number\small_black_J.png" />
+    <Image Include="..\Resources\res\number\small_black_K.png" />
+    <Image Include="..\Resources\res\number\small_black_Q.png" />
+    <Image Include="..\Resources\res\number\small_red_2.png" />
+    <Image Include="..\Resources\res\number\small_red_3.png" />
+    <Image Include="..\Resources\res\number\small_red_4.png" />
+    <Image Include="..\Resources\res\number\small_red_5.png" />
+    <Image Include="..\Resources\res\number\small_red_6.png" />
+    <Image Include="..\Resources\res\number\small_red_7.png" />
+    <Image Include="..\Resources\res\number\small_red_8.png" />
+    <Image Include="..\Resources\res\number\small_red_9.png" />
+    <Image Include="..\Resources\res\number\small_red_10.png" />
+    <Image Include="..\Resources\res\number\small_red_A.png" />
+    <Image Include="..\Resources\res\number\small_red_J.png" />
+    <Image Include="..\Resources\res\number\small_red_K.png" />
+    <Image Include="..\Resources\res\number\small_red_Q.png" />
+    <Image Include="..\Resources\res\suits\club.png" />
+    <Image Include="..\Resources\res\suits\diamond.png" />
+    <Image Include="..\Resources\res\suits\heart.png" />
+    <Image Include="..\Resources\res\suits\spade.png" />
+    <Image Include="res\game.ico" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,251 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+//#include "afxres.h"
+#include "winres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// 中文(简体，中国) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+LANGUAGE LANG_CHINESE, SUBLANG_CHINESE_SIMPLIFIED
+#pragma code_page(936)
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// PNG
+//
+
+IDB_PNG1                PNG                     "E:\\cocos2d\\cocos2d-x-3.17\\CardEliminateGame2\\Resources\\undo.png"
+
+IDB_PNG2                PNG                     "E:\\cocos2d\\cocos2d-x-3.17\\CardEliminateGame2\\Resources\\res\\card_general.png"
+
+IDB_PNG3                PNG                     "E:\\cocos2d\\cocos2d-x-3.17\\CardEliminateGame2\\Resources\\res\\number\\big_black_2.png"
+
+IDB_PNG4                PNG                     "E:\\cocos2d\\cocos2d-x-3.17\\CardEliminateGame2\\Resources\\res\\number\\big_black_3.png"
+
+IDB_PNG5                PNG                     "E:\\cocos2d\\cocos2d-x-3.17\\CardEliminateGame2\\Resources\\res\\number\\big_black_4.png"
+
+IDB_PNG6                PNG                     "E:\\cocos2d\\cocos2d-x-3.17\\CardEliminateGame2\\Resources\\res\\number\\big_black_5.png"
+
+IDB_PNG7                PNG                     "E:\\cocos2d\\cocos2d-x-3.17\\CardEliminateGame2\\Resources\\res\\number\\big_black_6.png"
+
+IDB_PNG8                PNG                     "E:\\cocos2d\\cocos2d-x-3.17\\CardEliminateGame2\\Resources\\res\\number\\big_black_7.png"
+
+IDB_PNG9                PNG                     "E:\\cocos2d\\cocos2d-x-3.17\\CardEliminateGame2\\Resources\\res\\number\\big_black_8.png"
+
+IDB_PNG10               PNG                     "E:\\cocos2d\\cocos2d-x-3.17\\CardEliminateGame2\\Resources\\res\\number\\big_black_9.png"
+
+IDB_PNG11               PNG                     "E:\\cocos2d\\cocos2d-x-3.17\\CardEliminateGame2\\Resources\\res\\number\\big_black_10.png"
+
+IDB_PNG12               PNG                     "E:\\cocos2d\\cocos2d-x-3.17\\CardEliminateGame2\\Resources\\res\\number\\big_black_A.png"
+
+IDB_PNG13               PNG                     "E:\\cocos2d\\cocos2d-x-3.17\\CardEliminateGame2\\Resources\\res\\number\\big_black_J.png"
+
+IDB_PNG14               PNG                     "E:\\cocos2d\\cocos2d-x-3.17\\CardEliminateGame2\\Resources\\res\\number\\big_black_K.png"
+
+IDB_PNG15               PNG                     "E:\\cocos2d\\cocos2d-x-3.17\\CardEliminateGame2\\Resources\\res\\number\\big_black_Q.png"
+
+IDB_PNG16               PNG                     "E:\\cocos2d\\cocos2d-x-3.17\\CardEliminateGame2\\Resources\\res\\number\\big_red_2.png"
+
+IDB_PNG17               PNG                     "E:\\cocos2d\\cocos2d-x-3.17\\CardEliminateGame2\\Resources\\res\\number\\big_red_3.png"
+
+IDB_PNG18               PNG                     "E:\\cocos2d\\cocos2d-x-3.17\\CardEliminateGame2\\Resources\\res\\number\\big_red_4.png"
+
+IDB_PNG19               PNG                     "E:\\cocos2d\\cocos2d-x-3.17\\CardEliminateGame2\\Resources\\res\\number\\big_red_5.png"
+
+IDB_PNG20               PNG                     "E:\\cocos2d\\cocos2d-x-3.17\\CardEliminateGame2\\Resources\\res\\number\\big_red_6.png"
+
+IDB_PNG21               PNG                     "E:\\cocos2d\\cocos2d-x-3.17\\CardEliminateGame2\\Resources\\res\\number\\big_red_7.png"
+
+IDB_PNG22               PNG                     "E:\\cocos2d\\cocos2d-x-3.17\\CardEliminateGame2\\Resources\\res\\number\\big_red_8.png"
+
+IDB_PNG23               PNG                     "E:\\cocos2d\\cocos2d-x-3.17\\CardEliminateGame2\\Resources\\res\\number\\big_red_9.png"
+
+IDB_PNG24               PNG                     "E:\\cocos2d\\cocos2d-x-3.17\\CardEliminateGame2\\Resources\\res\\number\\big_red_10.png"
+
+IDB_PNG25               PNG                     "E:\\cocos2d\\cocos2d-x-3.17\\CardEliminateGame2\\Resources\\res\\number\\big_red_A.png"
+
+IDB_PNG26               PNG                     "E:\\cocos2d\\cocos2d-x-3.17\\CardEliminateGame2\\Resources\\res\\number\\big_red_J.png"
+
+IDB_PNG27               PNG                     "E:\\cocos2d\\cocos2d-x-3.17\\CardEliminateGame2\\Resources\\res\\number\\big_red_K.png"
+
+IDB_PNG28               PNG                     "E:\\cocos2d\\cocos2d-x-3.17\\CardEliminateGame2\\Resources\\res\\number\\big_red_Q.png"
+
+IDB_PNG29               PNG                     "E:\\cocos2d\\cocos2d-x-3.17\\CardEliminateGame2\\Resources\\res\\number\\small_black_2.png"
+
+IDB_PNG30               PNG                     "E:\\cocos2d\\cocos2d-x-3.17\\CardEliminateGame2\\Resources\\res\\number\\small_black_3.png"
+
+IDB_PNG31               PNG                     "E:\\cocos2d\\cocos2d-x-3.17\\CardEliminateGame2\\Resources\\res\\number\\small_black_4.png"
+
+IDB_PNG32               PNG                     "E:\\cocos2d\\cocos2d-x-3.17\\CardEliminateGame2\\Resources\\res\\number\\small_black_5.png"
+
+IDB_PNG33               PNG                     "E:\\cocos2d\\cocos2d-x-3.17\\CardEliminateGame2\\Resources\\res\\number\\small_black_6.png"
+
+IDB_PNG34               PNG                     "E:\\cocos2d\\cocos2d-x-3.17\\CardEliminateGame2\\Resources\\res\\number\\small_black_7.png"
+
+IDB_PNG35               PNG                     "E:\\cocos2d\\cocos2d-x-3.17\\CardEliminateGame2\\Resources\\res\\number\\small_black_8.png"
+
+IDB_PNG36               PNG                     "E:\\cocos2d\\cocos2d-x-3.17\\CardEliminateGame2\\Resources\\res\\number\\small_black_9.png"
+
+IDB_PNG37               PNG                     "E:\\cocos2d\\cocos2d-x-3.17\\CardEliminateGame2\\Resources\\res\\number\\small_black_10.png"
+
+IDB_PNG38               PNG                     "E:\\cocos2d\\cocos2d-x-3.17\\CardEliminateGame2\\Resources\\res\\number\\small_black_A.png"
+
+IDB_PNG39               PNG                     "E:\\cocos2d\\cocos2d-x-3.17\\CardEliminateGame2\\Resources\\res\\number\\small_black_J.png"
+
+IDB_PNG40               PNG                     "E:\\cocos2d\\cocos2d-x-3.17\\CardEliminateGame2\\Resources\\res\\number\\small_black_K.png"
+
+IDB_PNG41               PNG                     "E:\\cocos2d\\cocos2d-x-3.17\\CardEliminateGame2\\Resources\\res\\number\\small_black_Q.png"
+
+IDB_PNG42               PNG                     "E:\\cocos2d\\cocos2d-x-3.17\\CardEliminateGame2\\Resources\\res\\number\\small_red_2.png"
+
+IDB_PNG43               PNG                     "E:\\cocos2d\\cocos2d-x-3.17\\CardEliminateGame2\\Resources\\res\\number\\small_red_3.png"
+
+IDB_PNG44               PNG                     "E:\\cocos2d\\cocos2d-x-3.17\\CardEliminateGame2\\Resources\\res\\number\\small_red_4.png"
+
+IDB_PNG45               PNG                     "E:\\cocos2d\\cocos2d-x-3.17\\CardEliminateGame2\\Resources\\res\\number\\small_red_5.png"
+
+IDB_PNG46               PNG                     "E:\\cocos2d\\cocos2d-x-3.17\\CardEliminateGame2\\Resources\\res\\number\\small_red_6.png"
+
+IDB_PNG47               PNG                     "E:\\cocos2d\\cocos2d-x-3.17\\CardEliminateGame2\\Resources\\res\\number\\small_red_7.png"
+
+IDB_PNG48               PNG                     "E:\\cocos2d\\cocos2d-x-3.17\\CardEliminateGame2\\Resources\\res\\number\\small_red_8.png"
+
+IDB_PNG49               PNG                     "E:\\cocos2d\\cocos2d-x-3.17\\CardEliminateGame2\\Resources\\res\\number\\small_red_9.png"
+
+IDB_PNG50               PNG                     "E:\\cocos2d\\cocos2d-x-3.17\\CardEliminateGame2\\Resources\\res\\number\\small_red_10.png"
+
+IDB_PNG51               PNG                     "E:\\cocos2d\\cocos2d-x-3.17\\CardEliminateGame2\\Resources\\res\\number\\small_red_A.png"
+
+IDB_PNG52               PNG                     "E:\\cocos2d\\cocos2d-x-3.17\\CardEliminateGame2\\Resources\\res\\number\\small_red_J.png"
+
+IDB_PNG53               PNG                     "E:\\cocos2d\\cocos2d-x-3.17\\CardEliminateGame2\\Resources\\res\\number\\small_red_K.png"
+
+IDB_PNG54               PNG                     "E:\\cocos2d\\cocos2d-x-3.17\\CardEliminateGame2\\Resources\\res\\number\\small_red_Q.png"
+
+IDB_PNG55               PNG                     "E:\\cocos2d\\cocos2d-x-3.17\\CardEliminateGame2\\Resources\\res\\suits\\club.png"
+
+IDB_PNG56               PNG                     "E:\\cocos2d\\cocos2d-x-3.17\\CardEliminateGame2\\Resources\\res\\suits\\diamond.png"
+
+IDB_PNG57               PNG                     "E:\\cocos2d\\cocos2d-x-3.17\\CardEliminateGame2\\Resources\\res\\suits\\heart.png"
+
+IDB_PNG58               PNG                     "E:\\cocos2d\\cocos2d-x-3.17\\CardEliminateGame2\\Resources\\res\\suits\\spade.png"
+
+#endif    // 中文(简体，中国) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+/////////////////////////////////////////////////////////////////////////////
+// 英语(美国) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+#pragma code_page(1252)
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+GLFW_ICON               ICON                    "res\\game.ico"
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 1,0,0,1
+ PRODUCTVERSION 1,0,0,1
+ FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x4L
+ FILETYPE 0x2L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "040904B0"
+        BEGIN
+            VALUE "FileDescription", "game Module"
+            VALUE "FileVersion", "1, 0, 0, 1"
+            VALUE "InternalName", "game"
+            VALUE "LegalCopyright", "Copyright "
+            VALUE "OriginalFilename", "game.exe"
+            VALUE "ProductName", "game Module"
+            VALUE "ProductVersion", "1, 0, 0, 1"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x409, 1200
+    END
+END
+
+#endif    // 英语(美国) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+
